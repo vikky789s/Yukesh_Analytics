@@ -7,4 +7,4 @@ I am actively preparing myself for new and exciting projects. By utilizing these
 I am dedicated to continuously honing my abilities and expanding my expertise to bring meaningful change to their organizations. 
 I aim to uncover valuable insights that can positively impact the businesses of investors and clients.
 
-To start with I am solving most challenging iterview questions put up by the hiring team.
+To start with, I am solving the most challenging interview questions put up by the hiring teams from different domains with multiple technologies.
